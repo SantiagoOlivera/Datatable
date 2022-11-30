@@ -1,0 +1,19 @@
+table{
+    border:none;
+}
+button{
+    border: none;
+    width: 100%;
+}
+button:focus{
+    outline: none;
+}
+/* border="0" cellspacing="2" cellpadding="0" */
+input{
+    border-radius: none;
+    border: none;
+    
+}
+input:focus{
+    outline: 2px solid rgb(0, 255, 136);
+}
